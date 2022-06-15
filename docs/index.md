@@ -2,6 +2,8 @@
 
 [日本語](./index.ja)
 
+nanjakkun@gmail.com
+
 ## Education
 
 - 2001/04 - 2005/03 Department of Chemistry, Faculty of Science, Kyoto University 
@@ -18,3 +20,10 @@
 
 
 https://developers.freee.co.jp/entry/introduce-sorbet-type-checker-for-ruby
+
+
+
+## Link
+
+- [Blog](https://nanjakkun.hatenablog.jp/)
+- [github](https://github.com/nanjakkun) 
